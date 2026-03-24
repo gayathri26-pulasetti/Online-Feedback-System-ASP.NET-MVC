@@ -1,23 +1,33 @@
-The Online Feedback System is a web-based application designed to simplify the process of collecting and managing feedback from users. This system allows users to submit their feedback easily, and administrators can efficiently view, manage, and analyze the responses. The project is built using ASP.NET MVC with C# and SQL Server as the database, providing a robust and scalable solution for feedback management.
+# Online Feedback System
 
-Features
+## 📌 Project Overview
+The Online Feedback System is a web-based application developed using ASP.NET MVC that allows users to submit feedback and enables administrators to manage and analyze responses efficiently.
 
-User-friendly interface for submitting feedback
+## 🚀 Features
+- User-friendly interface for submitting feedback
+- Admin dashboard to view, edit, and delete feedback
+- Secure authentication and authorization for admin users
+- CRUD operations using Entity Framework
+- Real-time feedback management
 
-Admin panel to view and manage feedback entries
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, Bootstrap, JavaScript
+- Backend: ASP.NET MVC, C#
+- Database: SQL Server
+- Tools: Visual Studio, Entity Framework
 
-Secure login and authentication for admin users
+## ⚙️ Key Concepts Implemented
+- MVC Architecture
+- Entity Framework (Database First / Code First)
+- Authentication & Authorization
+- CRUD Operations
+- Form Handling and Validation
 
-Real-time feedback tracking and reporting
+## ▶️ How to Run
+1. Clone the repository
+2. Open in Visual Studio
+3. Configure SQL Server connection string
+4. Run the application
 
-Easy to deploy on web servers or intranet
-
-Technologies Used
-
-Frontend: HTML, CSS, Bootstrap, JavaScript
-
-Backend: ASP.NET MVC, C#
-
-Database: SQL Server
-
-Tools: Visual Studio, Entity Framework
+## 👩‍💻 Author
+Gayathri Pulasetti
